@@ -1,0 +1,32 @@
+{
+  "name": "map_filter_reduce",
+  "version": "1.0.0",
+  "description": "Exercício de Map, Filter e Reduce para curso da \"DIO\", com aplicação do conceito de TDD usando MOCHA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadsenAMS/JS_Map_Filter_Reduce_Mocha.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "map",
+    "filter",
+    "reduce",
+    "mocha",
+    "nodejs",
+    "node"
+  ],
+  "author": "andre madsen da silveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadsenAMS/JS_Map_Filter_Reduce_Mocha/issues"
+  },
+  "homepage": "https://github.com/MadsenAMS/JS_Map_Filter_Reduce_Mocha#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
